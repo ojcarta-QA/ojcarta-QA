@@ -42,8 +42,8 @@ With a keen eye for detail and a deep understanding of the software development 
 ## 📫 Let's Connect
 
 I'm always open to collaborating, learning, or discussing software quality!  
-📧 orjilo17@gmail.com]  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/igwe-orji-384357164/))
+📧 orjilo17@gmail.com
+🔗 [LinkedIn][https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/igwe-orji-384357164/)
 
 ---
 
