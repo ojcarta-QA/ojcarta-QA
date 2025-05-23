@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Igwe Orji
 
-🎯 **QA Engineer | Manual & Automation Testing Enthusiast**  
+🎯 **QA Engineer | Manual & Automation Testing **  
 🧪 Passionate about delivering high-quality software through effective testing strategies
 
 ---
